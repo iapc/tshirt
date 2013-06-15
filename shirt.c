@@ -17,7 +17,7 @@
 																	char *m;     m="IA Programming\
 																	 Club:\n     after school, 2:45\
 																	 in Room     408.\n";if(computers
-																    ==awesome    ) {printf("%s",  m );}
+																        ==awesome    ) {printf("%s",  m );}
 																	exit(0);;    return  (  0   ); ; ;}
 
 
