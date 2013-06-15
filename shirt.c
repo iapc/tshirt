@@ -22,9 +22,10 @@
 
 
 															    
-															       /* How to run this program:
+															               /* How to run this program:
 															       
-																   $ git clone https://github.com/iapc/tshirt
-																   $ cd tshirt && make shirt
-																   $ ./shirt
-																   */
+																       $ git clone https://github.com/iapc/tshirt
+																       $ cd tshirt && make shirt
+																       $ ./shirt
+																       
+																       */
